@@ -1,4 +1,4 @@
-# West-Nile-Virus-Chicago
+# West Nile Virus - Chicago
 
 
 ## Problem Statement
